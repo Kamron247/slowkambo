@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a Planner Application that saves daily tasksa and reminders
+- 🔭 I’m currently working on a Planner Application that saves daily tasks and reminders
 - 🌱 I’m currently learning: Java and Markdown
 - 👯 I’m looking to collaborate on C++ and Python
 - 🤔 I’m looking for help with Java
